@@ -26,5 +26,5 @@ GlobalCash es una aplicación de consola que permite convertir diferentes moneda
 1. **Clona el repositorio**:
 
    ```bash
-   git clone 
+   git clone https://github.com/ReyDp/GlobalCash.git
    cd GlobalCash
